@@ -1,0 +1,12 @@
+html, body {
+	height: 100%;
+	margin: 0;
+}
+
+#circles {
+	width: 100%;
+	height: 100%;
+	background: #fbd3e9;
+	background: -webkit-linear-gradient(to top, #fbd3e9, #bb377d);
+	background: linear-gradient(to top, #fbd3e9, #bb377d);
+}
